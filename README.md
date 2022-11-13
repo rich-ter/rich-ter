@@ -1,6 +1,10 @@
 
 
 <img src='https://i.gifer.com/origin/99/994890712c41a370aa5450dcde702782_w200.gif'/>
+
+<img src='https://media.tenor.com/QBTzMLSWUh0AAAAd/particle.gif'/>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
 Add me on linkedin!
 
