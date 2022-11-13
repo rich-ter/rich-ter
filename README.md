@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
+
+Add me on linkedin!
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/philippos-richter/)
 
 <!--
 **rich-ter/rich-ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
