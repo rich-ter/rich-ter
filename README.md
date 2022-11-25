@@ -9,8 +9,17 @@
 <img src='https://64.media.tumblr.com/93373074c2341be6352ba47dac10b826/tumblr_nbc0vp0Kkc1qb7g9eo1_1280.gif'/>
 <img src='https://64.media.tumblr.com/f74d7cc35e3c4ed6fc11f560fe38b2a7/tumblr_inline_ny82m7qGH41ro20i7_500.gifv'/>
 -->
+
+Codewars ranking:
+
+<img src='https://www.codewars.com/users/rich-ter/badges/large'/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
 Add me on linkedin!
+
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/philippos-richter/)
 
