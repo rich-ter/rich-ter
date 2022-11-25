@@ -10,12 +10,11 @@
 <img src='https://64.media.tumblr.com/f74d7cc35e3c4ed6fc11f560fe38b2a7/tumblr_inline_ny82m7qGH41ro20i7_500.gifv'/>
 -->
 
-Codewars ranking:
+**Codewars ranking:**
 
 <img src='https://www.codewars.com/users/rich-ter/badges/large'/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
-
+**My github stats:**
 
 <img src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark"/>
 Add me on linkedin!
