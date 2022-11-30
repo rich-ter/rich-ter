@@ -7,8 +7,7 @@
 
 <!-- <img />
  -->
- <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark" alt="Rich-ter's github stats" /></a> | <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rich-ter&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter+Notebook,html,PowerShell,css,scss,batchfile&langs_count=10" /></a> |
-
+ <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=dark" alt="Rich-ter's github stats" /></a>
 
  <div align="left">
   
