@@ -7,9 +7,9 @@
 
 
  <div align="left">
+https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=radical
 
-(https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=radical)
-  | <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Richter's github stats" /></a> | <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rich-ter&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter+Notebook,html,PowerShell,css,scss,batchfile&langs_count=10" /></a> |
+  | <a href="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-ter&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Richter's github stats" /></a> | <a href="https://github.com/rich-ter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rich-ter&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter+Notebook,html,PowerShell,css,scss,batchfile&langs_count=10" /></a> |
 | ------------- | ------------- |
 
 </div> 
